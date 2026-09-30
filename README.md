@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🔐 Interface de Login no React com shadcn/ui
+# 🔐 Sign-in Screen in React with shadcn/ui
 
-**Tela de login moderna com carrossel, card e login social.**
+**A modern sign-in screen with a carousel, a card and social login.**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -10,58 +10,60 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-[![YouTube](https://img.shields.io/badge/Assista_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=EDpnTZdQSLs)
-[![DevClub PRO](https://img.shields.io/badge/Canal-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=EDpnTZdQSLs)
+[![DevClub PRO](https://img.shields.io/badge/Channel-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO)
 
 </div>
 
 ---
 
-## 🎬 Vídeo
+## 🎬 Video
 
-Este repositório acompanha o vídeo do canal **[DevClub PRO](https://www.youtube.com/@DevClubPRO)**:
+This repository accompanies a video from the **[DevClub PRO](https://www.youtube.com/@DevClubPRO)** channel:
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=EDpnTZdQSLs" title="Como criar uma Interface de Login no React com shadcn/ui">
-  <img src="https://img.youtube.com/vi/EDpnTZdQSLs/maxresdefault.jpg" alt="Como criar uma Interface de Login no React com shadcn/ui" width="720" />
+<a href="https://www.youtube.com/watch?v=EDpnTZdQSLs" title="How to Build a Sign-in Screen in React with shadcn/ui">
+  <img src="https://img.youtube.com/vi/EDpnTZdQSLs/maxresdefault.jpg" alt="How to Build a Sign-in Screen in React with shadcn/ui" width="720" />
 </a>
 
-**▶️ [Como criar uma Interface de Login no React com shadcn/ui](https://www.youtube.com/watch?v=EDpnTZdQSLs)**
+**▶️ [How to Build a Sign-in Screen in React with shadcn/ui](https://www.youtube.com/watch?v=EDpnTZdQSLs)**
+
+<sub>🇧🇷 The video is in Brazilian Portuguese.</sub>
 
 </div>
 
-## 📖 Sobre
+## 📖 About
 
-Uma tela de login construída com **React**, **Tailwind CSS** e **shadcn/ui**: um carrossel de destaque de um lado e o card de login do outro, com e-mail, senha e botão "Entrar com o GitHub".
+A sign-in screen built with **React**, **Tailwind CSS** and **shadcn/ui**: a highlight carousel on one side and the sign-in card on the other, with e-mail, password and a "Sign in with GitHub" button.
 
-## 🎯 O que você vai aprender
+## 🎯 What you’ll learn
 
-- Configurar Tailwind CSS e shadcn/ui em um projeto Vite + React
-- Adicionar componentes com a CLI do shadcn/ui
-- Montar a tela com `Card`, `Input`, `Label`, `Button` e `Separator`
-- Criar um carrossel com o componente `Carousel` (Embla)
-- Usar ícones do Radix Icons
+- Set up Tailwind CSS and shadcn/ui in a Vite + React project
+- Add components with the shadcn/ui CLI
+- Build the screen with `Card`, `Input`, `Label`, `Button` and `Separator`
+- Create a carousel with the `Carousel` component (Embla)
+- Use Radix Icons
 
-## 🚀 Como rodar
+## 🚀 Getting started
 
-> Pré-requisito: [Node.js](https://nodejs.org/) 18+
+> Prerequisite: [Node.js](https://nodejs.org/) 18+
 
 ```bash
-# 1. Clone o repositório
+# 1. Clone the repository
 git clone https://github.com/agustinhopneto/yt-signin-screen.git
 cd yt-signin-screen
 
-# 2. Instale as dependências
+# 2. Install the dependencies
 npm install
 
-# 3. Rode o projeto
+# 3. Run the project
 npm run dev
 ```
 
-Acesse **http://localhost:5173** 🎉
+Open **http://localhost:5173** 🎉
 
-## 🛠️ Tecnologias
+## 🛠️ Tech stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -73,10 +75,10 @@ Acesse **http://localhost:5173** 🎉
 
 <div align="center">
 
-Curtiu? Deixa um ⭐ no repositório e se inscreva no canal!
+Enjoyed it? Leave a ⭐ on the repo and subscribe to the channel!
 
-[![Inscreva-se](https://img.shields.io/badge/Inscreva--se-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO?sub_confirmation=1)
+[![Subscribe](https://img.shields.io/badge/Subscribe-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO?sub_confirmation=1)
 
-Feito com 💙 por **[Agustinho Neto](https://github.com/agustinhopneto)**
+Made with 💙 by **[Agustinho Neto](https://github.com/agustinhopneto)**
 
 </div>
